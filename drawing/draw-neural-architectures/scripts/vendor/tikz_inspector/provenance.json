@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/haiyichen001/tikz-figure-skill",
+  "commit": "5952e18631600aa46de91ea7653f92ae6697d774",
+  "files": {
+    "quality-report.py": "references/quality-report.py",
+    "LICENSE": "LICENSE"
+  },
+  "modifications": "None. Called as an optional heuristic sensor only. Its internal exception suppression and PASS string cannot establish validation success.",
+  "sha256": {
+    "quality-report.py": "9aa703ea26379c606af42c18f99c5cb881191540eccc3871d9e5f6ddbf190431",
+    "LICENSE": "90439067bc93e5d9ed5f034fbd4c87776dd219981cbcc9cc78ffb8d470fa500c"
+  }
+}

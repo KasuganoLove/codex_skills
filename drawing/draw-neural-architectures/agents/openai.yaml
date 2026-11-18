@@ -1,0 +1,14 @@
+interface:
+  display_name: 深度学习结构图
+  short_description: 复用 TikZ 与 PlotNeuralNet 模板，绘制并验收可编辑论文架构图
+  default_prompt: Use $draw-neural-architectures to create an editable, compiled neural-network
+    architecture figure from my model description, code, or paper.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

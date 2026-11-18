@@ -1,0 +1,14 @@
+interface:
+  display_name: Scientific Figure Making
+  short_description: Publication-ready Matplotlib figures and vector exports
+  default_prompt: Use $scientific-figure-making to create a publication-ready figure
+    from my data.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
